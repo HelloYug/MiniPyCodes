@@ -49,8 +49,6 @@
     # 13. Sales --> Amount calculation functions
         # 01. SuccessiveDiscount --> Calculates Successive discounts on a given amount.
 
-    # 00.  class YugInfo --> All the information related to Yug Agarwal.
-
 
 # -------------------------------------------------------------------------------------------------------------------------------------------------
 '''----------------------------------------------------------------------------------------------------------------------------------------------'''
@@ -1089,59 +1087,6 @@ def SuccessiveDiscount (DiscountList, Amount):
     DiscountedAmount = round (Amount - PriceAfterDiscount)
 
     return TotalDiscountPercent, PriceAfterDiscount, DiscountedAmount
-
-# 00 --------------------------------------------------------------------------------------------------------------------------------------------
-'''----------------------------------------------------------------------------------------------------------------------------------------------'''
-'''------------------------------------------------------------------ Yug Info ------------------------------------------------------------------'''
-'''----------------------------------------------------------------------------------------------------------------------------------------------'''
-# 00 --------------------------------------------------------------------------------------------------------------------------------------------
-class YugInfo:
-    def name(type):
-        if type == "full":
-            return "Yug Agarwal"
-        if type == "first":
-            return "Yug"
-        if type == "last":
-            return "Agarwal"
-
-    def age():
-        return "16"
-
-    class school:
-        def Grade(type):
-            if type == "class":
-                return "11"
-            if type == "sec":
-                return "A"
-
-    def PhoneNo(Relation):
-        if Relation == "self":
-            return "7011403558"
-        if Relation == "mother":
-            return "9312027122"
-        if Relation == "father":
-            return "9312127122"
-        if Relation == "work":
-            return "9643433354"
-
-    def SchoolName(time):
-        if time == "now":
-            return "Bhai Parmanand Vidya Mandir, Surya Niketan"
-        if time == "previous":
-            return "New Oxford Public School, Vivek Vihar"
-
-    def address():
-            return "Flat No.704 , Tower 1, Parsvnath Regalia, 149, Grand Trunk Road, Sahibabad-201005, Ghaziabad, Uttar Pradesh (India)"
-
-    def Email(Relation):
-        if Relation == "self":
-            return "yugagarwal704@gmail.com"
-        if Relation == "mother":
-            return "shaliniagarwal67717@gmail.com"
-        if Relation == "father":
-            return "sanjaymedipol@gmail.com"
-        if Relation == "work":
-            return "yugindustries21@gmail.com"
 
 
 '''--------------------------------------------------------------------------------------------------------------------------------------------''' # ------------------

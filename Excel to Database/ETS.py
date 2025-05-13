@@ -1,11 +1,10 @@
 # importing Modules
 from openpyxl import load_workbook
-import os
 from time import sleep
 from pyautogui import press, typewrite
 
 # input values
-FilePath = f"{os.getcwd()}\\Downloads\\Book1.xlsx"
+FilePath = ""
 SheetName = "Sheet1"
 
 

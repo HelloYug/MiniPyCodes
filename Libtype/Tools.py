@@ -13,7 +13,6 @@ print ("PROGRAM STARTED")
  # --> window screen finder
  # --> ms office recents remover
  # --> reach end of the website
- # --> pepclove sticker sheet image change
  # --> 
 
  
@@ -40,7 +39,7 @@ print ("PROGRAM STARTED")
 
 '''------------------------------------------------------------------------------'''
 '''Music Playlist Total Length Finder'''
-# path = "E:\Yug's Storage"
+# path = "folder_path"
 # from os import listdir, rename
 # dir_list = listdir(path)
 
@@ -114,8 +113,7 @@ print ("PROGRAM STARTED")
 # from os import listdir, rename, walk, scandir, path
 # from glob import glob
 
-# # path = "E:\\Yug's Storage"
-# path = "E:\\Yug's Storage\\Desktop\\Yug\\Extras"
+# path = "folder_path"
 
 # l = listdir(path)
 # print(1)
@@ -127,7 +125,7 @@ print ("PROGRAM STARTED")
 '''------------------------------------------------------------------------------'''
 ''' Mass Stock Changer '''
 # from openpyxl import load_workbook
-# file = "E:\\Yug's Storage\\Desktop\\Sanjay Agarwal\\Yug Industries\\Canopy\\Canopy Placement\\6. Vaishya Samaj (23.07.2022 - 24.07.2022)\\Template file.xlsx"
+# file = "file_path"
 # workbook = load_workbook (filename = file)
 # wbsas = workbook["Sales & Stocks"]
 
@@ -193,23 +191,5 @@ print ("PROGRAM STARTED")
 # for i in range (8):
 #     press ("end")
 #     sleep (2)
-
-'''------------------------------------------------------------------------------'''
-""" PC Sticker Sheet Image Change """
-# from pyautogui import press, click, typewrite
-# from time import sleep
-# sleep (3)
-# for i in range(20):
-#     click(button="right")
-#     sleep (0.1)
-#     press ("e")
-#     sleep (0.1)
-#     press("d")
-#     sleep(0.3)
-#     typewrite("barcode.png")
-#     sleep(0.1)
-#     press("enter")
-#     print(i)
-#     sleep(4.5)
 
 '''------------------------------------------------------------------------------'''

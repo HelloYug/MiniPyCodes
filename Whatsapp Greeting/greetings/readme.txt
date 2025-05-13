@@ -1,4 +1,4 @@
-# WhatsApp Auto-Greeter
+# 🙋‍♂️ WhatsApp Auto-Greeter
 
 This project automates daily greetings and special occasion wishes (birthdays and anniversaries) to family and friend WhatsApp groups using Python and `pyautogui`.
 
@@ -64,3 +64,6 @@ whatsapp_greeter/
 
 ## 👤 Author
 **Yug Agarwal** — built for family bonding through automation ♥️
+
+- 📧 [yugagarwal704@gmail.com](mailto:yugagarwal704@gmail.com)
+- 🔗 GitHub – [@HelloYug](https://github.com/HelloYug)
