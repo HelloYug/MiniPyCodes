@@ -1,0 +1,45 @@
+Time  : 20:32:46 12-01-2022 (Wed)
+	Message Type  : Wishing Anniversary to Baba & Maa
+	Chat Name     : Agarwal ji
+	Time taken    : 21.4267 Seconds
+-------------------------------------------------------
+Time  : 08:16:11 13-01-2022 (Thu)
+	Message Type  : Wishing Anniversary to Baba & Maa
+	Chat Name     : Agarwal ji
+	Time taken    : 21.4634 Seconds
+-------------------------------------------------------
+Time  : 08:30:09 13-01-2022 (Thu)
+	Message Type: Wishing Anniversary to Baba & Maa
+	Chat Name   : Agarwal ji
+	Time taken  : 19.4367 Seconds
+-------------------------------------------------------
+Time  : 08:57:14 13-01-2022 (Thu)
+	Message Type: Wishing Birthday to yug
+	Chat Name   : Agarwal ji
+	Time taken  : 19.2237 Seconds
+-------------------------------------------------------
+Time  : 12:42:28 13-01-2022 (Thu)
+	Message Type : Wishing Anniversary to Baba & Maa
+	Chat Name    : Agarwal ji
+	Time taken   : 18.1109 Seconds
+-------------------------------------------------------
+Time  : 12:42:47 13-01-2022 (Thu)
+	Message Type : Wishing Birthday to Yug
+	Chat Name    : Agarwal ji
+	Time taken   : 18.3293 Seconds
+-------------------------------------------------------
+Time : 00:15:39 19-01-2022 (Wed)
+	Message Type : Wishing Birthday to Taiji
+	Chat Name    : Coz V R de family
+	Time taken   : 18.4505 Seconds
+------------------------------------------------------------
+Time : 00:15:38 23-01-2022 (Sun)
+	Message Type : Wishing Birthday to Shaanvi
+	Chat Name    : Thakur ji
+	Time taken   : 17.7241 Seconds
+------------------------------------------------------------
+Time : 00:15:56 23-01-2022 (Sun)
+	Message Type : Wishing Birthday to Maanvi
+	Chat Name    : Thakur ji
+	Time taken   : 17.7611 Seconds
+------------------------------------------------------------
