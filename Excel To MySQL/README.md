@@ -1,17 +1,14 @@
-# 📌 Project Title
+# 📌 Excel To MySQL
 
-### 📁 Folder: `your-folder-name-here`
+### 📁 Folder: `Excel To MySQL`
 
-Brief description of what this project does. Mention its purpose, goal, or what problem it solves in 1–2 sentences.
-
+This project is a Python script designed to extract data from an Excel sheet and insert it into a MySQL database. It is ideal for automating the process of transferring attendance or other tabular data from Excel into MySQL, simplifying the data management process.
 
 ## 📋 Features
 
-- 🔹 Feature 1  
-- 🔹 Feature 2  
-- 🔹 Feature 3 *(if applicable)*  
-
-*(List core functionalities your script/project offers.)*
+- Extracts data from an Excel sheet.
+- Inserts the data into a MySQL table.
+- Supports replacing `None` values with `NULL` in MySQL for compatibility.
 
 
 ## 🛠 Requirements
@@ -33,13 +30,13 @@ Brief description of what this project does. Mention its purpose, goal, or what 
 2. Navigate to this folder:
 
    ```bash
-   cd MiniPyCodes/your-folder-name-here
+   cd MiniPyCodes/Excel To MySQL
    ```
 
 3. Run the script:
 
    ```bash
-   python3 script_name.py
+   python3 ExcelToMySQL.py
    ```
 
 *(Add extra steps or notes if needed)*
@@ -48,15 +45,11 @@ Brief description of what this project does. Mention its purpose, goal, or what 
 
 ## 📎 Files
 ```
-your-project-folder/
+Excel To MySQL/
 │
 ├── README.md               → Project documentation
-├── script_name.py          → Main Python script (core logic)
-├── data.csv                → Input data file (if applicable)
+├── ExcelToMySQL.py         → Main Python script (core logic)
 ├── requirements.txt        → Python package dependencies
-└── utils/
-    ├── helper.py           → Supporting functions/modules (if any)
-    └── __init__.py         → Marks it as a Python package
 
 ```
 
