@@ -1,2 +1,5 @@
 *.ini
-/SamplePRJ
+SamplePRJ/
+__pycache__/
+*.pyc
+YouTube Video Downloader/
