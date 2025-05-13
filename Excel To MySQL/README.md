@@ -39,14 +39,29 @@ This project is a Python script designed to extract data from an Excel sheet and
    python3 ExcelToMySQL.py
    ```
 
-*(Add extra steps or notes if needed)*
+4. Usage sample - test_run.py
+   ```
+   from excel_to_mysql import run_import
 
----
+   success = run_import(
+      file_path="datasheets.xlsx",
+      sheet_name="attendence",
+      database_name="bni",
+      table_name="attendence"
+   )
+
+   if success:
+      print("Import successful.")
+   else:
+      print("Import failed.")
+   ```
+
 
 ## 📎 Files
 ```
 Excel To MySQL/
 │
+├── .env                    → DB Credentials Input
 ├── README.md               → Project documentation
 ├── ExcelToMySQL.py         → Main Python script (core logic)
 ├── requirements.txt        → Python package dependencies

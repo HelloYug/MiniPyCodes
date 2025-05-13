@@ -10,6 +10,7 @@ A curated collection of small yet purposeful Python projects. Each folder in thi
 |-------------------------|-----------------------------------------------------|
 | `Cipher Tools`          | Cipher Tools is a Python library that provides encryption and decryption utilities. It includes functions to encrypt and decrypt both text and numbers, utilizing customizable algorithms and character mappings. The library supports operations such as string encryption using random insertions, number encryption based on square roots, and decryption using reverse logic.        |
 | `Excel To MySQL`        | This project is a Python script designed to extract data from an Excel sheet and insert it into a MySQL database. It is ideal for automating the process of transferring attendance or other tabular data from Excel into MySQL, simplifying the data management process. |
+| `HandPy Module`        | A lightweight Python utility toolkit with reusable functions for formatting, math, encryption, validation, system tools, and more. |
 
 
 > *(More folders will be added as the repo grows.)*
