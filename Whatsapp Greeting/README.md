@@ -62,8 +62,8 @@ whatsapp_greeter/
 
 ---
 
-## 👤 Author
-**Yug Agarwal** — built for family bonding through automation ♥️
+## 👨‍💻 Author
 
+**Yug Agarwal**
 - 📧 [yugagarwal704@gmail.com](mailto:yugagarwal704@gmail.com)
 - 🔗 GitHub – [@HelloYug](https://github.com/HelloYug)
