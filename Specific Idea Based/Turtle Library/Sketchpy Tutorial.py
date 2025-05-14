@@ -1,14 +1,16 @@
-'''This is the tutorial to already made sketches'''
+"""
+This script demonstrates how to generate sketches using the sketchpy library.
+Simply uncomment one line at a time to draw a specific figure.
+"""
 
 # Importing module
 from sketchpy import library
 
-# Uncomment the below line (one at a time) to get the sketch.
-
-# library.rdj().draw() # Robert Downy Junior
-# library.apj().draw() # APJ Abdul Kalam
-# library.bts().draw() # BTS member
-# library.gojo().draw() # Gojo (cartoon character)
-# library.flag().draw() # Flag of India
-# library.vijay().draw() # Joseph Vijay Chandrasekhar (Popular South Indian Actor)
-# library.ironman_ascii().draw() # Iron Man face mask with dotted characters
+# Available sketches:
+# library.rdj().draw()            # Robert Downey Jr.
+# library.apj().draw()            # Dr. A.P.J. Abdul Kalam
+# library.bts().draw()            # BTS member
+# library.gojo().draw()           # Gojo (anime character)
+# library.flag().draw()           # Flag of India
+# library.vijay().draw()          # Joseph Vijay (South Indian actor)
+# library.ironman_ascii().draw()  # Iron Man ASCII art

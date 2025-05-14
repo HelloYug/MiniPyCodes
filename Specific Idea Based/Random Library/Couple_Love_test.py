@@ -1,5 +1,5 @@
 #importing modules
-from libtype import AniType
+from HandyPy.formatters import AniType  # refer to https://github.com/HelloYug/MiniPyCodes/blob/main/HandyPy/formatters.py
 from random import randint
 
 #other info
@@ -23,12 +23,9 @@ while True:
     print (f"Your Love match is {res}%")
     hehe = "-"*(int((res-5)/4))
     
-    # print (f"[{AniType(hehe)} {res}% {AniType(hehe)}]")
-
     print ("[",end="")
     AniType(hehe,0.03,0.2)
     print (f" {res}% ",end="")
-    # print (res,"% ",end="")
     AniType(hehe,0.03,0.2)           
     print ("]")
 

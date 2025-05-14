@@ -1,0 +1,5 @@
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+pywin32>=306
+tk
+pillow         # If you want to preview images in tkinter
