@@ -22,10 +22,6 @@ Here's the updated table with subfoldering under the **Specific Idea Based** fol
 | `├── Tkinter Library`     | Python programs that use the `Tkinter` library for graphical user interfaces (GUIs). It includes light-hearted pranks like the "Idiot Button" and system management tools like a timer for scheduled shutdowns or sleep.|
 | `├── Turtle Library`      | A collection of Python scripts utilizing the `turtle` graphics library to create unique designs and shapes. Programs in this folder include drawing rangolis, a Mercedes logo, and the name "YUG" using turtle commands, along with more complex shapes and designs.                                                                                                              |
 
-Now, the **Specific Idea Based** folder and its subfolders (Logical, Menu Driven, Random Library, Tkinter Library, and Turtle Library) are clearly displayed. Let me know if you'd like to make any adjustments!
-
-
-
 
 > *(More folders will be added as the repo grows.)*
 
