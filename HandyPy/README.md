@@ -36,12 +36,20 @@ A lightweight Python utility toolkit with reusable functions for formatting, mat
 ### 🧪 Validators (`handypy/validators.py`)
 - `InputData`: Type-safe input with retry loop
 
+### 🗂️ Directory Utilities (handypy/directory_utilities.py)
+- **A menu-driven directory management utility with:**
+
+    - `generate_directory_chart`: Create a Markdown tree chart with file sizes (auto-formatted in B, KB, MB) and chart generation timestamp. Marks excluded files as [Excluded].
+
+    - `copy_files_only`: Recursively copy only files (no folders) to a flat destination folder, skipping files with specified extensions and safely renaming duplicates.
+
+    - `create_blank_structure`: Recreate the folder-file structure in a destination with empty files, useful for scaffolding or template generation.
 ---
 
 ## 🧰 Installation
 
 ```bash
-git clone https://github.com/yourusername/handypy.git
+git clone https://github.com/helloyug/handypy.git
 cd handypy
 pip install -r requirements.txt
 ````

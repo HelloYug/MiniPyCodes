@@ -23,6 +23,10 @@ This folder contains a set of Python programs that perform basic logical operati
 6. **Pythagorean Triplet from Side** 🔢📐  
    Given one side (smallest, middle, or hypotenuse) of a Pythagorean triplet, this program calculates the other sides and prints the triplet.
 
+7. **Palindromic pyramid.py – Palindromic Number Pyramid** 🔢🏔️  
+    This script prints a palindromic number pyramid pattern based on user input for the number of rows. Each row displays numbers increasing to the center and then decreasing symmetrically, forming a beautiful mirrored pyramid structure.
+
+
 ## How to Use 🚀
 
 1. Clone or download the repository.

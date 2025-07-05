@@ -22,6 +22,14 @@ This folder contains a collection of Python programs that use the `turtle` graph
 6. **Sketchpy Tutorial.py** 📚🎨  
    This tutorial showcases the `sketchpy` library, demonstrating how to draw famous personalities and objects like Robert Downey Jr., APJ Abdul Kalam, and more.
 
+7. **Suraj.py – Spinning Star Design** 🌟🔁  
+   This script creates a beautiful spinning star or sun-like pattern using Turtle. It repeatedly moves forward and turns at an angle to form a closed symmetrical design filled with colors.
+
+8. **Spiral.py – Hypnotic Spiral Design** 🌀👁️‍🗨️  
+   Generates a hypnotic spiral using turtle circles with increasing radii and angles, creating an illusion of depth and motion.
+
+9. **Square spiral.py – Square Spiral Pattern** ◻️🌀  
+   Draws a geometric square spiral by reducing the side length with each iteration, forming a symmetric inward-spiraling square pattern.
 
 ## How to Use 🚀
 
